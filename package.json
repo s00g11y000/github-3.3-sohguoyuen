@@ -1,0 +1,24 @@
+{
+  "name": "github-3.3-sohguoyuen",
+  "version": "1.0.0",
+  "description": "Assignment 3.3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s00g11y000/github-3.3-sohguoyuen.git"
+  },
+  "keywords": [
+    "first",
+    "node",
+    "application"
+  ],
+  "author": "sgy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s00g11y000/github-3.3-sohguoyuen/issues"
+  },
+  "homepage": "https://github.com/s00g11y000/github-3.3-sohguoyuen#readme"
+}
