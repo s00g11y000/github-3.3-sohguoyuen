@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/s00g11y000/github-3.3-sohguoyuen/issues"
   },
-  "homepage": "https://github.com/s00g11y000/github-3.3-sohguoyuen#readme"
+  "homepage": "https://github.com/s00g11y000/github-3.3-sohguoyuen#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
